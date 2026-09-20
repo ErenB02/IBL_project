@@ -1,15 +1,17 @@
 # International Brain Laboratory personal project
 
 ## Getting started
+This is an example of how to give instructions for setting up your project locally. To get a local copy up and running, follow these simple example steps.
 ### Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
 ### Installation
 
 
 ## Roadmap
 - [x] Created repo & edited README
-- [] Explore literature and settle on a specific dataset
-- [] Decide on research question
-- [] Decide on modelling approach
+- [ ] Explore literature and settle on a specific dataset
+- [ ] Decide on research question
+- [ ] Decide on modelling approach
 
 
 ## License
