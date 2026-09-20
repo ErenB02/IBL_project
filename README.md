@@ -4,10 +4,12 @@
 ### Prerequisites
 ### Installation
 
-## Installation
 
 ## Roadmap
-
+- [x] Created repo & edited README
+- [] Explore literature and settle on a specific dataset
+- [] Decide on research question
+- [] Decide on modelling approach
 
 
 ## License
